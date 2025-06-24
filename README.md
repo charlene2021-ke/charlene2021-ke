@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩🏽‍💻 Charlene Nasenya
 
-<!--
-**charlene2021-ke/charlene2021-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Charlene — a Computer Science student at University of the People, virtual assistant, and aspiring developer from Kenya. I'm passionate about technology, digital tools, and building solutions that improve lives.
 
-Here are some ideas to get you started:
+### 💡 What I'm Working On:
+- Earning my Bachelor's in Computer Science (UoPeople)
+- Building small web apps using HTML, CSS, Python, and JavaScript
+- Learning Git, GitHub, and version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack:
+- Python • HTML • CSS • JavaScript (basics)
+- Git • GitHub • VS Code • Canva
+
+### 🌍 Connect with Me:
+- [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+- [Website/Portfolio (if ready)](https://nasenyacharlene.co.ke)
+- Email: thenasenyatouch@gmail.com
+
+✨ Stay tuned — I’m building, learning, and sharing my journey here!
