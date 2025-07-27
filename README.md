@@ -12,8 +12,8 @@ Hi, I'm Charlene — a Computer Science student at University of the People, vir
 - Git • GitHub • VS Code • Canva
 
 ### 🌍 Connect with Me:
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+- [LinkedIn](https://linkedin.com/in/charlenenasenya)
 - [Website/Portfolio (if ready)](https://nasenyacharlene.co.ke)
-- Email: thenasenyatouch@gmail.com
+- Email: nasenyacharlene@gmail.com
 
 ✨ Stay tuned — I’m building, learning, and sharing my journey here!
